@@ -6,8 +6,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class OhmytycheApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(OhmytycheApplication.class, args);
-	}
+    public static void main(String[] args) {
+
+        SpringApplication.run(OhmytycheApplication.class, args);
+    }
 
 }
